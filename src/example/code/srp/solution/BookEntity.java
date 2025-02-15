@@ -1,4 +1,4 @@
-package example.code.singleresponsibility;
+package example.code.srp.solution;
 
 public class BookEntity {
     // This class is having single responsibility

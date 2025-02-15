@@ -1,4 +1,4 @@
-package example.code.singleresponsibility;
+package example.code.srp;
 
 public class Book {
     // This class does not support Single Responsibility Principal

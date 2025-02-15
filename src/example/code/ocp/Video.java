@@ -1,6 +1,4 @@
-package example.code;
-
-import example.code.openclosed.Category;
+package example.code.ocp;
 
 public class Video {
     private String title;

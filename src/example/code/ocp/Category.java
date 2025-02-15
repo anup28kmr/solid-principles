@@ -1,4 +1,4 @@
-package example.code.openclosed;
+package example.code.ocp;
 
 public enum Category {
     FOOD,

@@ -1,6 +1,6 @@
-package example.code.openclosed;
+package example.code.ocp;
 
-import example.code.Video;
+import example.code.ocp.solution.FoodEarningsCalculator;
 
 public class TestOpenClosedPrinciple {
     public static void main(String[] args) {

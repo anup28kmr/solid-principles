@@ -1,6 +1,4 @@
-package example.code.openclosed;
-
-import example.code.Video;
+package example.code.ocp;
 
 public class EarningsCalculator {
     public double calculateEarnings(Video video) {
